@@ -1,0 +1,135 @@
+100 queens, resultados com base em media de 10 em variações de 100
+Resultados em separado:
+true -> 0,0123022 Seconds
+true -> 0,0075804 Seconds
+true -> 0,0063533 Seconds
+true -> 0,006351 Seconds
+true -> 0,0061603 Seconds
+true -> 0,0062733 Seconds
+true -> 0,0060701 Seconds
+true -> 0,0064148 Seconds
+true -> 0,0064616 Seconds
+true -> 0,0064759 Seconds
+Resultado da media:
+0,0070442907 Segundos
+
+200 queens, resultados com base em media de 10 em variações de 100
+Resultados em separado:
+true -> 0,0659966 Seconds
+true -> 0,0665674 Seconds
+true -> 0,0674013 Seconds
+true -> 0,0670905 Seconds
+true -> 0,06753609 Seconds
+true -> 0,0673221 Seconds
+true -> 0,0662129 Seconds
+true -> 0,0670031 Seconds
+true -> 0,0663907 Seconds
+true -> 0,0666012 Seconds
+Resultado da media:
+0,066812195 Segundos
+
+300 queens, resultados com base em media de 10 em variações de 100
+Resultados em separado:
+true -> 0,2041844 Seconds
+true -> 0,2053243 Seconds
+true -> 0,20201111 Seconds
+true -> 0,2023995 Seconds
+true -> 0,2008733 Seconds
+true -> 0,2007112 Seconds
+true -> 0,2027669 Seconds
+true -> 0,2028768 Seconds
+true -> 0,2019289 Seconds
+true -> 0,2097736 Seconds
+Resultado da media:
+0,20328501 Segundos
+
+400 queens, resultados com base em media de 10 em variações de 100
+Resultados em separado:
+true -> 0,20810941 Seconds
+true -> 0,2076177 Seconds
+true -> 0,2059196 Seconds
+true -> 0,21012071 Seconds
+true -> 0,20700061 Seconds
+true -> 0,2031462 Seconds
+true -> 0,21071741 Seconds
+true -> 0,21179059 Seconds
+true -> 0,2141183 Seconds
+true -> 0,216472 Seconds
+Resultado da media:
+0,20950124 Segundos
+
+500 queens, resultados com base em media de 10 em variações de 100
+Resultados em separado:
+true -> 1,0444415 Seconds
+true -> 1,0450621 Seconds
+true -> 1,0446926 Seconds
+true -> 1,0364763 Seconds
+true -> 1,0347832 Seconds
+true -> 1,035846 Seconds
+true -> 1,0361912 Seconds
+true -> 1,0471599 Seconds
+true -> 1,0341305 Seconds
+true -> 1,0289037 Seconds
+Resultado da media:
+1,0387686 Segundos
+
+750 queens, resultados com base em media de 5 em variações de 250
+Resultados em separado:
+true -> 2,0753374 Seconds
+true -> 2,0864208 Seconds
+true -> 2,072889 Seconds
+true -> 2,085551 Seconds
+true -> 2,0746992 Seconds
+Resultado da media:
+2,0789797 Segundos
+
+1000 queens, resultados com base em media de 5 em variações de 250
+Resultados em separado:
+true -> 4,0002775 Seconds
+true -> 3,986457 Seconds
+true -> 3,9942193 Seconds
+true -> 3,9883008 Seconds
+true -> 3,9946473 Seconds
+Resultado da media:
+3,9927802 Segundos
+
+1250 queens, resultados com base em media de 5 em variações de 250
+Resultados em separado:
+true -> 18,057907 Seconds
+true -> 18,078728 Seconds
+true -> 18,053297 Seconds
+true -> 18,0721 Seconds
+true -> 18,083057 Seconds
+Resultado da media:
+18,06902 Segundos
+
+1500 queens, resultados com base em media de 5 em variações de 250
+Resultados em separado:
+true -> 11,833143 Seconds
+true -> 11,899619 Seconds
+true -> 11,918249 Seconds
+true -> 11,928061 Seconds
+true -> 11,904691 Seconds
+Resultado da media:
+11,896752 Segundos
+
+1750 queens, resultados com base em media de 5 em variações de 250
+Resultados em separado:
+true -> 35,31427 Seconds
+true -> 35,36319 Seconds
+true -> 35,414585 Seconds
+true -> 35,33139 Seconds
+true -> 35,277184 Seconds
+Resultado da media:
+35,340126 Segundos
+
+2000 queens, resultados com base em media de 5 em variações de 250
+Resultados em separado:
+true -> 77,06145 Seconds
+true -> 77,70756 Seconds
+true -> 77,30282 Seconds
+true -> 76,88782 Seconds
+true -> 76,80362 Seconds
+Resultado da media:
+77,15266 Segundos
+
